@@ -110,7 +110,6 @@ Contains product information including:
 PowerBI-Sales-Dashboard
 │
 ├── Dataset
-├── Images
 ├── Sales-Analytics-Dashboard.pbix
 └── README.md
 ```
